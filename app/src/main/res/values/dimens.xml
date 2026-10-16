@@ -3,4 +3,5 @@
 <resources>
     <dimen name="form_corner_radius">32dp</dimen>
     <dimen name="form_horizontal_padding">20dp</dimen>
+    <dimen name="form_vertical_padding">24dp</dimen>
 </resources>
