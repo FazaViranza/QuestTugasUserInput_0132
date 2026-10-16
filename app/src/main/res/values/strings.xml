@@ -14,4 +14,5 @@
     <string name="proceed">Proceed</string>
     <string name="experience_beginner">Beginner</string>
     <string name="experience_intermediate">Intermediate</string>
+    <string name="experience_advanced">Advanced</string>
 </resources>
