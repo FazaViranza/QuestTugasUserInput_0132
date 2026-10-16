@@ -13,4 +13,5 @@
     <color name="form_text">#292832</color>
     <color name="form_hint">#777777</color>
     <color name="form_border">#90909C</color>
+    <color name="form_disabled">#E0E0E0</color>
 </resources>
