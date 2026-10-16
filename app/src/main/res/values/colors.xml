@@ -12,4 +12,5 @@
     <color name="form_white">#FFFFFF</color>
     <color name="form_text">#292832</color>
     <color name="form_hint">#777777</color>
+    <color name="form_border">#90909C</color>
 </resources>
