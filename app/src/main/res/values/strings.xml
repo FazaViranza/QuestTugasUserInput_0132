@@ -7,4 +7,6 @@
     <string name="email">Email</string>
     <string name="birth_date">Tgl Lahir</string>
     <string name="experience">Experience</string>
+    <string name="skills_title">Pilih Skill Anda :</string>
+    <string name="skill_android">Android</string>
 </resources>
