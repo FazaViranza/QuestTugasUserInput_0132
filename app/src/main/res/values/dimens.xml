@@ -4,4 +4,14 @@
     <dimen name="form_horizontal_padding">20dp</dimen>
     <dimen name="form_vertical_padding">24dp</dimen>
     <dimen name="form_title_spacing">8dp</dimen>
+    <dimen name="form_field_spacing">8dp</dimen>
+    <dimen name="form_field_height">44dp</dimen>
+    <dimen name="form_input_height">44dp</dimen>
+    <dimen name="form_input_spacing">8dp</dimen>
+    <dimen name="form_input_corner">12dp</dimen>
+
+    <dimen name="form_dropdown_corner">12dp</dimen>
+    <dimen name="form_dropdown_height">56dp</dimen>
+
+    <dimen name="form_button_height">48dp</dimen>
 </resources>

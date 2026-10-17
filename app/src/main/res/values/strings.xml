@@ -15,4 +15,9 @@
     <string name="experience_beginner">Beginner</string>
     <string name="experience_intermediate">Intermediate</string>
     <string name="experience_advanced">Advanced</string>
+    <string name="dropdown_arrow">▾</string>
+    <string name="calendar_icon">▦</string>
+    <string name="date_confirm">Pilih</string>
+    <string name="date_cancel">Batal</string>
+
 </resources>
